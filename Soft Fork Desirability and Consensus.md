@@ -14,7 +14,7 @@ This leaves six possible situations. Here’s how one should act given each poss
 
 ||Lack of Consensus|Consensus| 
 |:-|:-|:-|
-|Undesirable|Oppose any current attempt at activation. Oppose attempts to build consensus.|Bitcoin is in danger of no longer being aligned with your values. Oppose any current attempt at activation. Support attempts to break consensus before activation can happen. If you fail, and then it may be time to leave bitcoin and move on to other endeavors.| 
+|Undesirable|Oppose any current attempt at activation. Oppose attempts to build consensus.|Bitcoin is in danger of no longer being aligned with your values. Oppose any current attempt at activation. Support attempts to break consensus before activation can happen. If you fail, and then it may be time to leave bitcoin and move on to other endeavors, unless you consider it a minor misalignment.| 
 |Neutral|Oppose any current attempt at activation. Neither oppose nor support attempts to build consensus.|Oppose any activation attempts with unacceptable methods. Support activation through one’s preferred activation method, or whichever acceptable activation method enjoys the most broad support.| 
 |Desirable|Oppose any current attempt at activation. Support attempts to build consensus.|Oppose any activation attempts with unacceptable methods. Support activation through one’s preferred activation method, or whichever acceptable activation method enjoys the most broad support.| 
 
